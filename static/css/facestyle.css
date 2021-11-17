@@ -1,0 +1,78 @@
+body {
+	background: no-repeat center url("../img/table.jpg");
+	background-size: cover;
+	
+}
+
+h1 {
+	width: 800px;
+	margin: 0 auto 8px;
+	font-family: "Georgia", serif;
+	text-align: center;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 64px;
+	
+}
+
+.wrapper {
+	display: flex;
+}
+
+.container {
+  width: 510px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #847462 no-repeat center url("../img/up.jpg");
+  background-size: cover;
+  color: #999999;
+}
+
+.info {
+  width: 750px;
+  margin: 0 auto;
+  padding: 0 20px;
+  color: 000000;
+  font-size: 28px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.features {
+  width: 300px;
+}
+
+.icon-inst {
+  padding-left: 25px;
+  background: url("../img/instagram.jpg") no-repeat;
+  background-size: 20px 20px;
+}
+
+.icon-vk {
+  padding-left: 25px;
+  background: no-repeat url("../img/vk.jpg");
+  background-size: 20px 20px;
+}
+
+.mail {
+  padding-left: 25px;
+  background: no-repeat url("../img/mail.png");
+  background-size: 20px 20px;
+}
+
+.links {
+	
+}
+
+.about {
+	padding-left: 300px;
+	font-size: 24px;
+	width: 800px;
+}
